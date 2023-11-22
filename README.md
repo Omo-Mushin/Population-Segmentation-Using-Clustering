@@ -1,2 +1,3 @@
 # Population-Segmentation-Using-Clustering
 This is a thourough analysis of a dataset gotten from kaggle containing several items and features. This analysis can be useful in business planning, campaigns and economic planning. The algorithms used are Kmeans clustering algorithm and Principal Component Analysis.
+After the analysis, the end result is a model that can be used to determine if a particular region or county can be considered to be a major city with high level of industrialization of a small city with minimal technology and industrialization. Such information can be useful in starting businesses and political or financial planning as well as others.
